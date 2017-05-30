@@ -1,0 +1,1 @@
+I would test the word count program by inputting strings with varying amounts of words. Very large inputs, inputs with repeated white space, inputs with no words, and inputs with special characters are most likely to uncover bugs.
